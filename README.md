@@ -1,6 +1,6 @@
 # hello-world
 first repo
 
-This a test.
+This is a test.
 
-'Hello World!' is the classic first program, and so not wanting to mess with tradition, here is my very first git repo.
+'Hello World!' is the classic first program, and so not wanting to break with tradition, here is my very first git repo.
